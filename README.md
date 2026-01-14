@@ -2,6 +2,8 @@
 
 This is the smartwatch food ordering app for watchOS, built in Swift UI, with API integrations with Stripe (for online payment) and ExchangeRate-API + Alchemy (for crypto payment).
 
+[![watchOS app](https://img.youtube.com/vi/avflkkA-5mg/0.jpg)](https://youtu.be/avflkkA-5mg)
+
 ## User flow
 
 1. The user installs the smartwatch app for their favorite restaurant from the Apple Store.
