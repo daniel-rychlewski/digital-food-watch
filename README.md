@@ -79,3 +79,9 @@ To simplify the entry of contact data, the app supports microphone input. The fl
 - Build variants: There are four build variants: testDebug, testRelease, prodDebug, prodRelease. For the Xcode emulator, work with testDebug and prodDebug. For releasing the app, use testRelease (for TestFlight) and prodRelease (for the productive app). Difference between test and prod: the commission.cumulatedOrdersPrice field in Firebase will only be updated for prod. That way, the invoices generated from that to the clients due to commission-based pricing will reflect the correct amount, because their testing does not modify the field. Make sure that the correct environment is chosen under "Product -> Scheme -> Edit Scheme".
 - In the assets, include your food images in the Food directory and adjust the AppIcon and SplashScreen for your app.
 - You can build your app in Xcode via "Product -> Archive" and then choose it for the upload to the Apple Store.
+
+### Apple Store listing
+
+This is how an Apple Store listing for the app can look like:
+
+![Apple Store listing](marketing/appleStoreListing.png)
